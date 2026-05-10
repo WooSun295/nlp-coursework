@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Unimportant Assignments or BigData
+Assignment 2/aclImdb
+Assignment 2/Task 1
+Assignment 3/txt_sentoken
